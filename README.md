@@ -25,9 +25,6 @@ I specialize in building scalable and efficient web applications using modern te
 - **[Movie Downloading API](https://github.com/abdullahchandio/moviedownloadingapi):** Easy movie API for Bollywood and Hollywood data.
 - **[Resume Checker](https://github.com/abdullahchandio/resumechecker):** Analyze resumes for better keyword optimization.
 
-## 📈 GitHub Stats:
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahchandio&show_icons=true&theme=dark)
-
 ## 📚 What I'm Learning:
 - Deepening my understanding of **Data Science**.
 - Exploring **Machine Learning** and data visualization techniques.
