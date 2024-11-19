@@ -31,4 +31,4 @@ I specialize in building scalable and efficient web applications using modern te
 
 ## 📫 Let's Connect:
 - **GitHub**: [abdullahchandio](https://github.com/abdullahchandio)
-- **Email**: abdullah@example.com
+- **Email**: uibyabdullah@gmail.com
