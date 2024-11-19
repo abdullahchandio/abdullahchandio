@@ -1,26 +1,37 @@
-# 👋 Hello, I'm Abdullah Chandio!
+# 👋 Hi, I'm Abdullah Chandio!
 
-🌐 **Junior Web Developer & UX/UI Designer**  
-I specialize in creating user-friendly web applications and designs that focus on aesthetics and seamless interaction. My goal is to bring ideas to life through clean and efficient code combined with modern design principles.
+🚀 **Full-Stack Developer | Data Science Enthusiast**
 
-## 💻 Projects and Contributions:
-Here are some of my featured projects:
-- **[Email Validator](https://github.com/abdullahchandio/email-validator):** A tool to validate and check email deliverability.
-- **[Movie Downloading API](https://github.com/abdullahchandio/moviedownloadingapi):** Fetch Bollywood and Hollywood movie data with ease.
-- **[Resume Checker](https://github.com/abdullahchandio/resumechecker):** Analyze and improve resumes using automated keyword detection.
+I specialize in building scalable and efficient web applications using modern technologies. I’m passionate about developing solutions that combine functionality with excellent user experience.
+
+## 🔧 Tech Stack:
+
+### 💻 **Full-Stack Development**:
+- **Backend**: Node.js, Express.js
+- **Frontend**: React.js, JavaScript (ES6+)
+- **Database**: MongoDB
+
+### 📊 **Data Science & Python**:
+- **Libraries**: Pandas, NumPy
+- Currently learning data manipulation and analysis for powerful insights.
+
+### 🛠️ **Tools & Packages**:
+- **Version Control**: Git, GitHub
+- **Others**: Postman, npm, REST APIs, Python scripting
+
+## 🌟 Featured Projects:
+
+- **[Email Validator](https://github.com/abdullahchandio/email-validator):** Validate email addresses and check deliverability.
+- **[Movie Downloading API](https://github.com/abdullahchandio/moviedownloadingapi):** Easy movie API for Bollywood and Hollywood data.
+- **[Resume Checker](https://github.com/abdullahchandio/resumechecker):** Analyze resumes for better keyword optimization.
 
 ## 📈 GitHub Stats:
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahchandio&show_icons=true&theme=dark)
 
-## 📚 Education:
-- **Sindh Agriculture University**
+## 📚 What I'm Learning:
+- Deepening my understanding of **Data Science**.
+- Exploring **Machine Learning** and data visualization techniques.
 
-## 🔍 Skills:
-- **Frontend Development:** HTML, CSS, JavaScript, React
-- **Backend Development:** Node.js, Express.js
-- **UX/UI Design:** Figma, Adobe XD
-- **Version Control:** Git, GitHub
-
-## 📫 Connect with Me:
-- **GitHub:** [abdullahchandio](https://github.com/abdullahchandio)
-- **Email:** abdullah@example.com
+## 📫 Let's Connect:
+- **GitHub**: [abdullahchandio](https://github.com/abdullahchandio)
+- **Email**: abdullah@example.com
