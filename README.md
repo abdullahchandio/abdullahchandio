@@ -26,7 +26,6 @@ I specialize in building scalable and efficient web applications using modern te
 - **[Resume Checker](https://github.com/abdullahchandio/resumechecker):** Analyze resumes for better keyword optimization.
 
 ## 🌐 Portfolio:
-
 - **[My Portfolio Website](https://abdullahchandio.netlify.app/):** Explore my projects, skills, and experiences in detail.
 
 ## 📚 What I'm Learning:
@@ -36,4 +35,4 @@ I specialize in building scalable and efficient web applications using modern te
 ## 📫 Let's Connect:
 - **GitHub**: [abdullahchandio](https://github.com/abdullahchandio)
 - **Email**: uibyabdullah@gmail.com
-- **[My Portfolio Website]([https://abdullahchandio.netlify.app/](https://abdullahchandio.netlify.app/))
+- **[My Portfolio Website]** : ([https://abdullahchandio.netlify.app/](https://abdullahchandio.netlify.app/))
