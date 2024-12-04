@@ -25,6 +25,10 @@ I specialize in building scalable and efficient web applications using modern te
 - **[Movie Downloading API](https://github.com/abdullahchandio/moviedownloadingapi):** Easy movie API for Bollywood and Hollywood data.
 - **[Resume Checker](https://github.com/abdullahchandio/resumechecker):** Analyze resumes for better keyword optimization.
 
+## 🌐 Portfolio:
+
+- **[My Portfolio Website](https://abdullahchandio.netlify.app/):** Explore my projects, skills, and experiences in detail.
+
 ## 📚 What I'm Learning:
 - Deepening my understanding of **Data Science**.
 - Exploring **Machine Learning** and data visualization techniques.
@@ -32,3 +36,4 @@ I specialize in building scalable and efficient web applications using modern te
 ## 📫 Let's Connect:
 - **GitHub**: [abdullahchandio](https://github.com/abdullahchandio)
 - **Email**: uibyabdullah@gmail.com
+- **[My Portfolio Website]([https://abdullahchandio.netlify.app/](https://abdullahchandio.netlify.app/))
