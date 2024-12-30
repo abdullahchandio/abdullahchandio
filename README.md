@@ -21,7 +21,7 @@ I specialize in building scalable and efficient web applications using modern te
 
 ## 🌟 Featured Projects:
 
-- **[Email Validator](https://github.com/abdullahchandio/email-validator):** Validate email addresses and check deliverability.
+- **[TaskPlanz](https://github.com/abdullahchandio/TaskPlanz):** TaskPlanz - A simple drag-and-drop tool to organize and manage your daily tasks effortlessly.
 - **[Movie Downloading API](https://github.com/abdullahchandio/moviedownloadingapi):** Easy movie API for Bollywood and Hollywood data.
 - **[Resume Checker](https://github.com/abdullahchandio/resumechecker):** Analyze resumes for better keyword optimization.
 
